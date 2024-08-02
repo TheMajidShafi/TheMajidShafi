@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TheMajidShafi
+- 👀 I’m interested in Android App Development
+- 🌱 I’m currently learning Database
+- 💞️ I’m looking to collaborate with Internship
